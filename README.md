@@ -2,8 +2,8 @@
 
 An implementation of an OAuth client following the [OAuth 2.0 RFC](https://datatracker.ietf.org/doc/html/rfc6749). This implementation is for learning purposes and should not be used for real projects. If you need to implement OAuth, I highly recommend the following open-source projects:
 
-1. [goth](https://github.com/markbates/goth)
-2. [OAuth2 for Go](https://pkg.go.dev/golang.org/x/oauth2)
+- [goth](https://github.com/markbates/goth)
+- [OAuth2 for Go](https://pkg.go.dev/golang.org/x/oauth2)
 
 ## Usage
 
